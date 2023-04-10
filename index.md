@@ -28,11 +28,11 @@ layout: default
 
 > Time Is Money.
 
-## Programming
+## Programming in C++: [Queue](#solve-it-by-queue-learned-from-cse100) and [Stack](#solve-it-by-stack)
 
-* An exercise about from [LeetCode](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/).*
+*An exercise about from [LeetCode](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/).*
 
-> 1466. Reorder Routes to Make All Paths Lead to the City Zero
+> Reorder Routes to Make All Paths Lead to the City Zero
 
 ### Solve it by Queue learned from CSE100
 
@@ -147,3 +147,5 @@ Noted some git commands in my [lab report]((https://angeliazddl.github.io/CSE15L
 - [ ] Find a internship
 - [ ] Read two rearch papers about AI every week
 - [x] Do 2 exercises on LeetCode every week
+
+[Back to Top](#about-me)
